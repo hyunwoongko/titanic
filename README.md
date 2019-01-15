@@ -9,7 +9,12 @@
 <br>
 <br>
 
-## Data Set
+## 1. Data Set
 
 #### Click [Here](https://www.kaggle.com/c/3136/download-all) to Download Data Set.
 ###### *Data Set provided by Kaggle.*
+
+<br>
+<br>
+
+## 2. Analysis Result
