@@ -9,7 +9,7 @@
 <br>
 <br>
 
-## Data Set
+## 1. Data Set
 
 #### Click [Here](https://www.kaggle.com/c/3136/download-all) to Download Data Set.
 ###### *Data Set provided by Kaggle.*
@@ -17,6 +17,4 @@
 <br>
 <br>
 
-## Analysis Result
-
-### [Check Result](https://github.com/gusdnd852/Kaggle-Titanic/blob/master/src/solution.ipynb)
+## 2. Analysis Result
