@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de22110e-0e67-4896-a758-a0243e432368" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/solution.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="de22110e-0e67-4896-a758-a0243e432368" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -213,12 +211,12 @@
       <updated>1547527859124</updated>
       <workItem from="1547527862433" duration="1745000" />
       <workItem from="1547530037603" duration="3263000" />
-      <workItem from="1547533370130" duration="2636000" />
+      <workItem from="1547533370130" duration="3030000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7644000" />
+    <option name="totallyTimeSpent" value="8038000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
