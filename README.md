@@ -17,4 +17,7 @@
 <br>
 <br>
 
-## 2. Analysis Result
+## 2. Analysis
+
+![image](https://user-images.githubusercontent.com/38183241/51345823-55bd2880-1adf-11e9-8c80-485e0407e0eb.png)
+
