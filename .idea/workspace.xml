@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de22110e-0e67-4896-a758-a0243e432368" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/solution.ipynb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -13,7 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Kaggle_Titanic$Jupyter.coverage" NAME="Jupyter Coverage Results" MODIFIED="1547533540420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Kaggle_Titanic$Jupyter.coverage" NAME="Jupyter Coverage Results" MODIFIED="1547754659027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="903635681">
@@ -214,18 +213,18 @@
       <updated>1547527859124</updated>
       <workItem from="1547527862433" duration="1745000" />
       <workItem from="1547530037603" duration="3263000" />
-      <workItem from="1547533370130" duration="19447000" />
+      <workItem from="1547533370130" duration="20189000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24455000" />
+    <option name="totallyTimeSpent" value="25197000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.06837607" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.06837607" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -236,7 +235,7 @@
       <window_info anchor="bottom" id="Database Console" order="0" weight="0.3293348" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.3293348" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49786323" visible="true" weight="0.13606912" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.49786323" visible="true" weight="0.13606912" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
