@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de22110e-0e67-4896-a758-a0243e432368" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/ASUS.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/solution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/solution.ipynb" afterDir="false" />
     </list>
@@ -36,7 +35,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="2879" />
+          <entry key="Python" value="3676" />
         </counts>
       </usages-collector>
     </session>
@@ -47,7 +46,7 @@
         <entry file="file://$PROJECT_DIR$/src/solution.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="75" />
+              <selected id="111" />
             </state>
           </provider>
         </entry>
@@ -104,9 +103,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="952" />
+    <option name="x" value="-7" />
     <option name="y" value="30" />
-    <option name="width" value="975" />
+    <option name="width" value="974" />
     <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -148,7 +147,7 @@
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547529822343" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Algorihtm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Apache-Spark" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
@@ -215,18 +214,18 @@
       <updated>1547527859124</updated>
       <workItem from="1547527862433" duration="1745000" />
       <workItem from="1547530037603" duration="3263000" />
-      <workItem from="1547533370130" duration="12863000" />
+      <workItem from="1547533370130" duration="19447000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17871000" />
+    <option name="totallyTimeSpent" value="24455000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.06837607" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.06837607" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -237,7 +236,7 @@
       <window_info anchor="bottom" id="Database Console" order="0" weight="0.3293348" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.3293348" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.49786323" visible="true" weight="0.13606912" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49786323" visible="true" weight="0.13606912" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -301,7 +300,7 @@
     <entry file="file://$PROJECT_DIR$/src/solution.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="75" />
+          <selected id="111" />
         </state>
       </provider>
     </entry>
