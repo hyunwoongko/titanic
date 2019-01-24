@@ -1,4 +1,4 @@
-# Kaggle-Titanic
+# Titanic
 
 ![image](https://user-images.githubusercontent.com/38183241/51159581-45cdfa80-18cd-11e9-8d08-6d9cb2bcba29.png)
 
